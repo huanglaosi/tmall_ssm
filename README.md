@@ -1,0 +1,1 @@
+模仿天猫官网，采用spring+springMVC+Mybatis框架技术，前后端不分离开发
